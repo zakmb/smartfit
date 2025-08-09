@@ -1,0 +1,21 @@
+server:
+  port: 8080
+
+spring:
+  application:
+    name: smartfit-backend
+  security:
+    user:
+      name: admin
+      password: admin
+
+firebase:
+  project-id: smartfit-ai-9ff5f
+  credentials-file: smartfit-ai-9ff5f-bd2436ef64dd.json
+
+logging:
+  level:
+    com.smartfit: INFO
+    org.springframework.security: WARN
+
+ 
