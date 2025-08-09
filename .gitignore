@@ -45,6 +45,7 @@ backend/*.ear
 firebase-debug.log
 firebase-debug.*.log
 .firebase/
+firebase.ts
 smartfit-ai-9ff5f-bd2436ef64dd.json
 
 # Security
